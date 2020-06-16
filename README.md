@@ -1,3 +1,3 @@
 # Welcome to my repository
 
-Authors: Isabelle Caldwell 
+Authors: Isabelle Caldwell, Jonathan Wells
